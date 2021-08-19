@@ -1,0 +1,40 @@
+
+
+
+
+
+/* My Code*/
+
+
+body {
+    background: url("Plain_wall.png");
+    background-position: 0 1000px;
+}
+
+
+h1 {
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+h2{
+
+  color: #010F8A;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+h3 {
+
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+h4 {
+
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
